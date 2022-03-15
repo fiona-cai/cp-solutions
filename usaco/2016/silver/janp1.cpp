@@ -32,8 +32,8 @@ int works(int mid) {
 
 
 int main(){
-    //freopen("angry.in", "r", stdin);
-    //freopen("angry.out", "w", stdout);
+    freopen("angry.in", "r", stdin);
+    freopen("angry.out", "w", stdout);
     cin >> n >> k;
     if (k >= n) {cout << 0 << "\n"; return 0; }
     for (int i =0; i <n; i++) cin >> c[i];
