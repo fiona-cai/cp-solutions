@@ -1,6 +1,7 @@
+#https://dmoj.ca/problem/ccc20s1
+#CCC '20 S1 - Surmising a Sprinter's Speed
+
 n = int(input())
-
-
 m = []
 
 for i in range(n):
