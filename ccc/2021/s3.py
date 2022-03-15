@@ -1,3 +1,6 @@
+#https://dmoj.ca/problem/ccc21s3
+#CCC '21 S3 - Lunch Concert
+
 import sys
 input = sys.stdin.readline
 
