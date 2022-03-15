@@ -1,3 +1,6 @@
+#https://dmoj.ca/problem/ccc21s1
+#CCC '21 S1 - Crazy Fencing
+
 n = int(input())
 
 heights = list(map(int, input().split()))
