@@ -1,3 +1,6 @@
+//https://dmoj.ca/problem/ccc22s1
+//CCC '22 S1 - Good Fours and Good Fives
+
 #include <bits/stdc++.h>
 using namespace std;
 
