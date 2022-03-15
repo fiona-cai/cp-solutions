@@ -13,8 +13,8 @@
 **USACO Past Contests*** ->http://www.usaco.org/index.php?page=contests
 
 ## Disclaimer 
-> This repository consists largely of code written during compeitions. Hence, many improper software practices were used.
-> These solutions pass all tests at the time they were submitted; they are in no way the most efficient or official
+> This repository consists largely of code written during competitions. Hence, many improper software practices were used.
+> These solutions pass all tests at the time they were originally submitted; they are in no way the most efficient or official.
 > 
 > Please try the questions out yourself before looking at the solutions :)
 
