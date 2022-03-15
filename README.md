@@ -1,9 +1,26 @@
 # Competitive Programming Solutions
 
+*a work in progress~* 
+
 [![DMOJ Badge](https://img.shields.io/badge/DMOJ-fcaiona-green)](https://www.dmoj.ca/user/fcaiona)
 [![DMOJ Badge](https://img.shields.io/badge/DMOJ-Dwin2020-blue)](https://dmoj.ca/user/Dwin2020)
 
+## Links
+**DMOJ Online Judge** -> https://dmoj.ca/
+
+**CCC Past Contests*** -> https://cemc.uwaterloo.ca/contests/past_contests.html
+
+**USACO Past Contests*** ->http://www.usaco.org/index.php?page=contests
+
+## Disclaimer 
+> This repository consists largely of code written during compeitions. Hence, many improper software practices were used.
+> These solutions pass all tests at the time they were submitted; they are in no way the most efficient or official
+> 
+> Please try the questions out yourself before looking at the solutions :)
+
 ## Goals:
+current: [![files](https://tokei.rs/b1/github/fiona-cai/cp-solutions?category=files)](https://github.com/fiona-cai/cp-solutions)
+- [X] Upload 50 files
 - [ ] Upload 100 files
 - [ ] Upload 200 files
 - [ ] Upload 500 files
