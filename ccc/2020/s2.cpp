@@ -1,3 +1,6 @@
+//https://dmoj.ca/problem/ccc20s2
+//CCC '20 S2 - Escape Room
+
 #include <bits/stdc++.h>
 using namespace std;
 

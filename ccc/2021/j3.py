@@ -1,3 +1,6 @@
+#https://dmoj.ca/problem/ccc21j3
+#CCC '21 J3 - Secret Instructions
+
 my_input = input()
 
 while True:

@@ -1,3 +1,6 @@
+//https://dmoj.ca/problem/ccc19s5
+//CCC '19 S5 - Triangle: The Data Structure
+
 #include <bits/stdc++.h>
 using namespace std;
 
