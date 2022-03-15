@@ -1,3 +1,6 @@
+//https://dmoj.ca/problem/usaco19decbronze1
+//USACO 2019 December Bronze P1 - Cow Gymnastics
+
 import java.util.*;
 import java.io.*;
 
