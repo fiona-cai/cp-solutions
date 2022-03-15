@@ -1,3 +1,6 @@
+#https://dmoj.ca/problem/ccc21s2
+#CCC '21 S2 - Modern Art
+
 m = int(input())
 n = int(input())
 
