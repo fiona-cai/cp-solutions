@@ -1,3 +1,6 @@
+//https://dmoj.ca/problem/ccc22s3
+//CCC '22 S3 - Good Samples
+
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
