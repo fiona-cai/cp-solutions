@@ -1,3 +1,6 @@
+//https://dmoj.ca/problem/ccc22j5
+//CCC '22 J5 - Square Pool
+
 #include <bits/stdc++.h>
 using namespace std;
 
