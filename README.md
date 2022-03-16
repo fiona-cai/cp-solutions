@@ -22,7 +22,7 @@
 
 ### Files [![files](https://tokei.rs/b1/github/fiona-cai/cp-solutions?category=files)](https://github.com/fiona-cai/cp-solutions)
 - [X] Upload 50 files
-- [ ] Upload 100 files
+- [X] Upload 100 files
 - [ ] Upload 200 files
 - [ ] Upload 500 files
 - [ ] Upload 1000 files
