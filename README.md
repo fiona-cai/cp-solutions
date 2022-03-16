@@ -2,15 +2,15 @@
 
 *a work in progress~* 
 
-[![DMOJ Badge](https://img.shields.io/badge/DMOJ-fcaiona-green)](https://www.dmoj.ca/user/fcaiona)
+[![DMOJ Badge](https://img.shields.io/badge/DMOJ-fcaiona-green)](https://dmoj.ca/user/fcaiona)
 [![DMOJ Badge](https://img.shields.io/badge/DMOJ-Dwin2020-blue)](https://dmoj.ca/user/Dwin2020)
 
 ## Links
-**DMOJ Online Judge** -> https://dmoj.ca/
+**DMOJ** Online Judge -> https://dmoj.ca/
 
-**CCC Past Contests*** -> https://cemc.uwaterloo.ca/contests/past_contests.html
+**CCC** Past Contests -> https://cemc.uwaterloo.ca/contests/past_contests.html
 
-**USACO Past Contests*** ->http://www.usaco.org/index.php?page=contests
+**USACO** Past Contests ->http://www.usaco.org/index.php?page=contests
 
 ## Disclaimer 
 > This repository consists largely of code written during competitions. Hence, many improper software practices were used.
