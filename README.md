@@ -28,7 +28,7 @@
 - [ ] Upload 1000 files
 
 ### CCC
-- [ ] Upload all CCC J1 solutions (2000-)
+- [X] Upload all CCC J1 solutions (2000-)
 - [ ] Upload all CCC J2 solutions (2000-)
 - [ ] Upload all CCC J3 solutions (2000-)
 - [ ] Upload all CCC J4 solutions (2000-)
