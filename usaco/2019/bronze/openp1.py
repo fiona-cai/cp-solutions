@@ -1,5 +1,5 @@
 #https://dmoj.ca/problem/usaco19openbronze1
-#USACO 2019 US Open Contest, Bronze - Problem 1. Bucket Brigade
+#USACO 2019 Open Contest Bronze P1 - Bucket Brigade
 
 from collections import deque
 grid = []
