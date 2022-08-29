@@ -36,16 +36,6 @@ void solve() {
     for (int i =2; i <=n-1; i++) {
         if (!vis[i]) dfs(i, i);
     }
-    /*
-    for (int i=1; i <=n; i++) {
-        cout << "component: " << i << endl;
-        if (c[i].size() == 0) cout << "EMPTY" << endl;
-        else {
-            for (auto e : c[i]) cout << e << " ";
-            cout << endl;
-        }
-    }
-    */
 
     int ans = INF;
     set<int> c1 = c[1], c2 = c[n];
