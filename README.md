@@ -2,8 +2,8 @@
 
 *a work in progress~* 
 
-[![DMOJ Badge](https://img.shields.io/badge/DMOJ-fcaiona-green)](https://dmoj.ca/user/fcaiona)
-[![DMOJ Badge](https://img.shields.io/badge/DMOJ-Dwin2020-blue)](https://dmoj.ca/user/Dwin2020)
+[![DMOJ Badge](https://img.shields.io/badge/DMOJ-fcaiona-blue)](https://dmoj.ca/user/fcaiona)
+[![DMOJ Badge](https://img.shields.io/badge/DMOJ-Dwin2020-purple)](https://dmoj.ca/user/Dwin2020)
 
 ## Links
 **DMOJ** Online Judge -> https://dmoj.ca/
