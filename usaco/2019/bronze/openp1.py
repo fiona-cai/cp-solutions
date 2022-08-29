@@ -1,4 +1,4 @@
-#http://www.usaco.org/index.php?page=viewproblem2&cpid=939
+#https://dmoj.ca/problem/usaco19openbronze1
 #USACO 2019 US Open Contest, Bronze - Problem 1. Bucket Brigade
 
 from collections import deque
