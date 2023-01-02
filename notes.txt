@@ -1,6 +1,6 @@
 Key points from various contests
 
-USACO 2022 Dec Silver Problem 1: Barn Tree (http://usaco.org/index.php?page=viewproblem2&cpid=1254) 
+USACO 2022 Dec Silver Problem 1: Barn Tree
 
 
 - Tree DP
@@ -11,7 +11,7 @@ USACO 2022 Dec Silver Problem 1: Barn Tree (http://usaco.org/index.php?page=view
 - 1. Sort children based on sum of h[i] within child subtree
 - 2. Topological sort technique
 
-USACO 2022 Dec Silver Problem 2: Circular Barn (http://usaco.org/index.php?page=viewproblem2&cpid=1255)
+USACO 2022 Dec Silver Problem 2: Circular Barn
 
 - Prime numbers: Sieve, O(sqrt(N)) to get factors
 - How many prime numbers less than 5e6? 
@@ -19,7 +19,7 @@ USACO 2022 Dec Silver Problem 2: Circular Barn (http://usaco.org/index.php?page=
 - Precompute for each prime how long it take for it to become 0
 - Find first barn to become 0, that determines who wins
 
-USACO 2022 Dec Silver Problem 3: Range Reconstruction (http://usaco.org/index.php?page=viewproblem2&cpid=1256)
+USACO 2022 Dec Silver Problem 3: Range Reconstruction
 
 - Assume 1 .. i works then add i+1
 - Only need to check a[i][i+1] to make array !
