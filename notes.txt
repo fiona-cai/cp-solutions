@@ -43,3 +43,17 @@ AAC 7 P3: Squirrel Scramble
 - Only ever use portal once, arrive at nearest portal to destination
 - For node i, there will always be a k such that it is optimal to walk to each node from i to k-1 and use a portal to reach node k ... n
 
+AAC 4 P2: Lavish Lights
+
+- Array b where b[i] is the LCM of a[1] ... a[i]
+- Stop when b > 1e9 !! (because t[i] <= 1e9 and cannot be a multiple of anything > 1e9)
+- Binary search for last index i such that t[i] = 0 (mod b[i])
+- i+1 is answer
+
+AAC 4 P3: Snowy Slopes
+
+- x[j]-x[i]/y[j] - y[i] = k[a]/d[a] for indices i, j, a
+- d[a](x[j] - x[i]) = k[a](y[j]-y[i])
+- d[a]*x[j] - k[a]*y[j] = d[a]*x[i] - k[a]*y[i]
+- store frequency counts of d[a]*x[i] - k[a]*y[i] for each a and i
+- combinatorics to get answer 
