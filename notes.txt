@@ -57,3 +57,19 @@ AAC 4 P3: Snowy Slopes
 - d[a]*x[j] - k[a]*y[j] = d[a]*x[i] - k[a]*y[i]
 - store frequency counts of d[a]*x[i] - k[a]*y[i] for each a and i
 - combinatorics to get answer 
+
+DMOPC 2021 Contest 5 P1: Permutations & Primes
+
+- Odds on one side, evens on the other
+- Pick constant a, b to be middle such that a is odd and b is even (eg. 5, 4)
+- Answer will be all odd numbers <= n other than 5 ... 5 4 ... all even numbers <= n other than 4
+
+DMOPC 2021 Contest 5 P2: Permutations & Primes
+
+- N = 1 return 1
+- N = 2 return -1
+- N = 3 works with answer 1 3 2
+- Claim: if N-1 works N works too
+- Add a number to the end will never get prime sum
+- Sum of N numbers is N*(N+1)/2 which is always composite if N >= 3 because it is product of two numbers, N and (N+1)/2
+
