@@ -73,3 +73,12 @@ DMOPC 2021 Contest 5 P2: Permutations & Primes
 - Add a number to the end will never get prime sum
 - Sum of N numbers is N*(N+1)/2 which is always composite if N >= 3 because it is product of two numbers, N and (N+1)/2
 
+DMOPC 2021 Contest 5 P3: Permutations & Primes
+
+- if N <= 2 return -1
+- Precalculate all primes and whether permutation 1.. N is winning
+- Winner will either be 1.. N, 1.. N-2 N N-1, or 1 .. N N-2 N-1 respectively
+- 1...N-2 N N-1 and 1.. N N-2 N-1 same as 1 ... N-1 and 1... N-2 because since you cant go right N is basically N-1 or N-2 respectively
+- Therefore we can precalculate and answer in O(1)
+
+
