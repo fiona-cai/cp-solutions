@@ -82,3 +82,14 @@ DMOPC 2021 Contest 5 P3: Permutations & Primes
 - Therefore we can precalculate and answer in O(1)
 
 
+CCC 2015 S4: Convex Hull
+
+- 2D Dijkstra
+- dis[u][ state k ] : shortest path from start to u with state k 
+
+Mock CCC 2022 Contest 2 J5: Dominating the Olympics
+
+- Longest path in DAG
+- Connect all u where outdegree[u] = 0 to an arbitrary node 0
+- dp[u] = max time to reach u from a node v such that indegree[v] = 0
+- answer is dp[0]
