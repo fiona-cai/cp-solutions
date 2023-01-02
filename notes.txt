@@ -1,0 +1,45 @@
+Key points from various contests
+
+USACO 2022 Dec Silver Problem 1: Barn Tree
+
+
+- Tree DP
+- Assume subtree v works, DFS u = make subtree u work without changing v
+- Only moves are to take or give to parent
+- Problem is might take more than parent has, therefore need to change order of operations
+- How to order operations?
+- 1. Sort children based on sum of h[i] within child subtree
+- 2. Topological sort technique
+
+USACO 2022 Dec Silver Problem 2: Circular Barn
+
+- Prime numbers: Sieve, O(sqrt(N)) to get factors
+- How many prime numbers less than 5e6? 
+- Farmer John loses N=1 when a1 = 0 (mod 4)
+- Precompute for each prime how long it take for it to become 0
+- Find first barn to become 0, that determines who wins
+
+USACO 2022 Dec Silver Problem 3: Range Reconstruction
+
+- Assume 1 .. i works then add i+1
+- Only need to check a[i][i+1] to make array !
+- 2 choices for each element ans[i-1] + a[i][i+1], ans[i-1] - a[i][i+1], if one doesn't work take the other
+
+
+DMOPC 2022 Contest 2 P2: Line Trace
+
+- Answer is number of inversions
+- A connector that connects line i with i+1 swaps i and i+1 in the answer
+
+YAC 5 P2: Big Score
+
+- Lexographically greatest array must be Josh
+- Since each of Josh's moves removed two coins from a vault and added one coin to a vault left of vault , the leftmost vault operated on by Josh must contain more coins than it had originally.
+- Conversely, since each of Nils's moves removed two coins from a vault  and added one coin to a vault right of vault , the leftmost vault operated on by Nils must contain fewer coins than it had originally.
+- Lexographically smallest array is Nils
+
+AAC 7 P3: Squirrel Scramble
+
+- Only ever use portal once, arrive at nearest portal to destination
+- For node i, there will always be a k such that it is optimal to walk to each node from i to k-1 and use a portal to reach node k ... n
+
